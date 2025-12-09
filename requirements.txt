@@ -1,0 +1,4 @@
+streamlit
+google-genai
+# הוסף כל ספרייה אחרת שאתה משתמש בה, לדוגמה:
+# pandas
